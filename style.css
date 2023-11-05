@@ -2,3 +2,13 @@
 span {
     font-family: 'Lugrasimo', cursive;    
 }
+
+header>a {
+    pointer-events: none;
+}
+
+.modal {
+    --bs-modal-width: 100%;
+    --bs-modal-padding: 0;
+    
+}
